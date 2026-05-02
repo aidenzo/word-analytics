@@ -4,7 +4,7 @@ import Stats from "./Stats";
 import {
   FACEBOOK_CHARACTER_LIMIT,
   INSTAGRAM_CHARACTER_LIMIT,
-} from "../libs/constants";
+} from "../lib/constants";
 
 export default function Container() {
   const [text, setText] = useState("");
