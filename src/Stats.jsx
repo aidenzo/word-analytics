@@ -1,3 +1,3 @@
 export default function Stats() {
-  return <section className="stat">Stats</section>;
+  return <section className="stat"></section>;
 }
